@@ -5,7 +5,7 @@ Classify Yelp Reviews into 1 star or 5 star categories based off the text conten
 
 ## Files
 1. [Yelp Review Data Set from Kaggle](https://www.kaggle.com/c/yelp-recsys-2013)
-2. LendingClub_Loans.ipynb
+2. Yelp Reviews.ipynb
 
 ## Data
 - Each observation in this dataset is a review of a particular business by a particular user.
