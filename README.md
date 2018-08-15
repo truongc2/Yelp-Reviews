@@ -1,7 +1,7 @@
 # Yelp-Reviews
 
 ## Goal
-Classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. 
+Classify Yelp Reviews into 1 star or 5 star categories based on the text content in the reviews. 
 
 ## Files
 1. [Yelp Review Data Set from Kaggle](https://www.kaggle.com/c/yelp-recsys-2013)
